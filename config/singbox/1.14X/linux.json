@@ -53,7 +53,7 @@
       {"clash_mode": "Direct", "outbound": "直连"},
       {"clash_mode": "Global", "outbound": "GLOBAL"},
       {"domain_keyword": "lily", "outbound": "直连"},
-      {"domain_keyword": "dpdns", "outbound": "直连"},
+      {"domain_keyword": "fd.jzdj", "outbound": "直连"},
       {"domain_keyword": "bangumi", "outbound": "直连"},
       {"domain_keyword": "cn2gias", "outbound": "Emby"},
       {"domain_keyword": "emby", "outbound": "Emby"},
